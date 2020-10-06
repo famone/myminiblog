@@ -1,0 +1,58 @@
+[
+  {
+    "name": "about",
+    "path": "/about",
+    "component": "/Users/konstantintimofeev/Desktop/VUE/nblog/pages/about/index.vue",
+    "chunkName": "pages/about/index",
+    "_name": "_76bf505b"
+  },
+  {
+    "name": "admin",
+    "path": "/admin",
+    "component": "/Users/konstantintimofeev/Desktop/VUE/nblog/pages/admin/index.vue",
+    "chunkName": "pages/admin/index",
+    "_name": "_f87634c6"
+  },
+  {
+    "name": "blog",
+    "path": "/blog",
+    "component": "/Users/konstantintimofeev/Desktop/VUE/nblog/pages/blog/index.vue",
+    "chunkName": "pages/blog/index",
+    "_name": "_67f357ea"
+  },
+  {
+    "name": "posts",
+    "path": "/posts",
+    "component": "/Users/konstantintimofeev/Desktop/VUE/nblog/pages/posts/index.vue",
+    "chunkName": "pages/posts/index",
+    "_name": "_50538921"
+  },
+  {
+    "name": "admin-new-post",
+    "path": "/admin/new-post",
+    "component": "/Users/konstantintimofeev/Desktop/VUE/nblog/pages/admin/new-post/index.vue",
+    "chunkName": "pages/admin/new-post/index",
+    "_name": "_2f57edb5"
+  },
+  {
+    "name": "blog-id",
+    "path": "/blog/:id",
+    "component": "/Users/konstantintimofeev/Desktop/VUE/nblog/pages/blog/_id/index.vue",
+    "chunkName": "pages/blog/_id/index",
+    "_name": "_f7ab2456"
+  },
+  {
+    "name": "posts-id",
+    "path": "/posts/:id",
+    "component": "/Users/konstantintimofeev/Desktop/VUE/nblog/pages/posts/_id/index.vue",
+    "chunkName": "pages/posts/_id/index",
+    "_name": "_1bdda8e8"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/konstantintimofeev/Desktop/VUE/nblog/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_3b9ce69d"
+  }
+]

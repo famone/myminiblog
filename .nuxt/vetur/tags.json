@@ -1,0 +1,68 @@
+{
+  "Cont": {
+    "description": "Auto imported from components/Cont.vue"
+  },
+  "LazyCont": {
+    "description": "Auto imported from components/Cont.vue"
+  },
+  "Promo": {
+    "description": "Auto imported from components/Promo.vue"
+  },
+  "LazyPromo": {
+    "description": "Auto imported from components/Promo.vue"
+  },
+  "Intro": {
+    "description": "Auto imported from components/UI/Intro.vue"
+  },
+  "LazyIntro": {
+    "description": "Auto imported from components/UI/Intro.vue"
+  },
+  "Newpostform": {
+    "description": "Auto imported from components/admin/Newpostform.vue"
+  },
+  "LazyNewpostform": {
+    "description": "Auto imported from components/admin/Newpostform.vue"
+  },
+  "Post": {
+    "description": "Auto imported from components/blog/Post.vue"
+  },
+  "LazyPost": {
+    "description": "Auto imported from components/blog/Post.vue"
+  },
+  "Postslist": {
+    "description": "Auto imported from components/blog/Postslist.vue"
+  },
+  "LazyPostslist": {
+    "description": "Auto imported from components/blog/Postslist.vue"
+  },
+  "Postspreview": {
+    "description": "Auto imported from components/blog/Postspreview.vue"
+  },
+  "LazyPostspreview": {
+    "description": "Auto imported from components/blog/Postspreview.vue"
+  },
+  "Comments": {
+    "description": "Auto imported from components/comments/Comments.vue"
+  },
+  "LazyComments": {
+    "description": "Auto imported from components/comments/Comments.vue"
+  },
+  "NewComment": {
+    "description": "Auto imported from components/comments/NewComment.vue"
+  },
+  "LazyNewComment": {
+    "description": "Auto imported from components/comments/NewComment.vue"
+  },
+  "Footer": {
+    "description": "Auto imported from components/system/Footer.vue"
+  },
+  "LazyFooter": {
+    "description": "Auto imported from components/system/Footer.vue"
+  },
+  "Header": {
+    "description": "Auto imported from components/system/Header.vue"
+  },
+  "LazyHeader": {
+    "description": "Auto imported from components/system/Header.vue"
+  }
+}
